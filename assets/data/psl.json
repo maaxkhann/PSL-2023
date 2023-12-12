@@ -1,0 +1,423 @@
+{
+  "schedule": [
+    {
+      "date": "13-Feb-2023 07:30 PM",
+      "teamOne": "Multan Sultans",
+      "teamTwo": "Lahore Qalandars",
+      "flagOne": "multan.png",
+      "flagTwo": "lahore.png",
+      "venue": "Multan",
+      "time": ""
+    },
+    {
+      "date": "14-Feb-2023 07:00 PM",
+      "teamOne": "Karachi Kings",
+      "teamTwo": "Peshawar Zalmi",
+      "flagOne": "karachi.png",
+      "flagTwo": "peshawar.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "15-Feb-2023 06:00 PM",
+      "teamOne": "Multan Sultans",
+      "teamTwo": "Quetta Gladiators",
+      "flagOne": "multan.png",
+      "flagTwo": "quetta.png",
+      "venue": "Multan",
+      "time": ""
+    },
+    {
+      "date": "16-Feb-2023 07:00 PM",
+      "teamOne": "Karachi kings",
+      "teamTwo": "Islamabad United",
+      "flagOne": "karachi.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "17-Feb-2023 06:00 PM",
+      "teamOne": "Multan Sultans",
+      "teamTwo": "Peshawar Zalmi",
+      "flagOne": "multan.png",
+      "flagTwo": "peshawar.png",
+      "venue": "Multan",
+      "time": ""
+    },
+    {
+      "date": "18-Feb-2023 07:00 PM",
+      "teamOne": "Karachi Kings",
+      "teamTwo": "Quetta Gladiators",
+      "flagOne": "karachi.png",
+      "flagTwo": "quetta.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "19-Feb-2023 02:00 PM",
+      "teamOne": "Multan Sultans",
+      "teamTwo": "Islamabad United",
+      "flagOne": "multan.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Multan",
+      "time": ""
+    },
+    {
+      "date": "19-Feb-2023 07:00 PM",
+      "teamOne": "Karachi Kings",
+      "teamTwo": "Lahore Qalandars",
+      "flagOne": "karachi.png",
+      "flagTwo": "lahore.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "20-Feb-2023 07:00 PM",
+      "teamOne": "Quetta Gladiators",
+      "teamTwo": "Peshawar Zalmi",
+      "flagOne": "quetta.png",
+      "flagTwo": "peshawar.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "21-Feb-2023 07:00 PM",
+      "teamOne": "Quetta Gladiators",
+      "teamTwo": "Lahore Qalandars",
+      "flagOne": "quetta.png",
+      "flagTwo": "lahore",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "22-Feb-2023 06:00 PM",
+      "teamOne": "Multan Sultans",
+      "teamTwo": "Karachi Kings",
+      "flagOne": "multan.png",
+      "flagTwo": "karachi.png",
+      "venue": "Multan",
+      "time": ""
+    },
+    {
+      "date": "23-Feb-2023 07:00 PM",
+      "teamOne": "Peshawar Zalmi",
+      "teamTwo": "Islamabad United",
+      "flagOne": "peshawar.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "24-Feb-2023 07:00 PM",
+      "teamOne": "Quetta Gladiators",
+      "teamTwo": "Islamabad United",
+      "flagOne": "quetta.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "26-Feb-2023 02:00 PM",
+      "teamOne": "Karachi Kings",
+      "teamTwo": "Multan Sultans",
+      "flagOne": "karachi.png",
+      "flagTwo": "multan.png",
+      "venue": "Karachi",
+      "time": ""
+    },
+    {
+      "date": "26-Feb-2023 07:00 PM",
+      "teamOne": "Lahore Qalandars",
+      "teamTwo": "Peshawar Zalmi",
+      "flagOne": "lahore.png",
+      "flagTwo": "peshawar.png",
+      "venue": "Lahore",
+      "time": ""
+    },
+    {
+      "date": "27-Feb-2023 07:00 PM",
+      "teamOne": "Lahore Qalandars",
+      "teamTwo": "Islamabad United",
+      "flagOne": "lahore.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Lahore",
+      "time": ""
+    },
+    {
+      "date": "01-Mar-2023 07:00 PM",
+      "teamOne": "Peshawar Zalmi",
+      "teamTwo": "Islamabad United",
+      "flagOne": "peshawar.png",
+      "flagTwo": "islamabad.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "02-Mar-2023 07:00 PM",
+      "teamOne": "Lahore Qalandars",
+      "teamTwo": "Quetta Gladiators",
+      "flagOne": "lahore.png",
+      "flagTwo": "quetta.png",
+      "venue": "Lahore",
+      "time": ""
+    },
+    {
+      "date": "03-Mar-2023 07:00 PM",
+      "teamOne": "Islamabad United",
+      "teamTwo": "Karachi Kings",
+      "flagOne": "islamabad.png",
+      "flagTwo": "karachi.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "04-Mar-2023 07:00 PM",
+      "teamOne": "Lahore Qalandars",
+      "teamTwo": "Multan Sultans",
+      "flagOne": "lahore.png",
+      "flagTwo": "multan.png",
+      "venue": "Lahore",
+      "time": ""
+    },
+    {
+      "date": "05-Mar-2023 07:00 PM",
+      "teamOne": "Islamabad United",
+      "teamTwo": "Quetta Gladiators",
+      "flagOne": "islamabad.png",
+      "flagTwo": "quetta.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "06-Mar-2023 07:00 PM",
+      "teamOne": "Quetta Gladiators",
+      "teamTwo": "Karachi Kings",
+      "flagOne": "quetta.png",
+      "flagTwo": "karachi.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "07-Mar-2023 02:00 PM",
+      "teamOne": "Peshawar Zalmi",
+      "teamTwo": "Lahore Qalandars",
+      "flagOne": "peshawar.png",
+      "flagTwo": "lahore.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "07-Mar-2023 07:00 PM",
+      "teamOne": "Islamabad United",
+      "teamTwo": "Multan Sultans",
+      "flagOne": "islamabad.png",
+      "flagTwo": "multan.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "08-Mar-2023 07:00 PM",
+      "teamOne": "Peshawar Zalmi",
+      "teamTwo": "Quetta Gladiators",
+      "flagOne": "peshawar.png",
+      "flagTwo": "quetta.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "09-Mar-2023 07:00 PM",
+      "teamOne": "Islamabad United",
+      "teamTwo": "Lahore Qalandars",
+      "flagOne": "islamabad.png",
+      "flagTwo": "lahore.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "10-Mar-2023 07:00 PM",
+      "teamOne": "Peshawar Zalmi",
+      "teamTwo": "Multan Sultans",
+      "flagOne": "peshawar.png",
+      "flagTwo": "multan.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "11-Mar-2023 07:00 PM",
+      "teamOne": "Quetta Gladiators",
+      "teamTwo": "Multan Sultans",
+      "flagOne": "quetta.png",
+      "flagTwo": "multan.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "12-Mar-2023 02:00 PM",
+      "teamOne": "Islamabad United",
+      "teamTwo": "Peshawar Zalmi",
+      "flagOne": "islamabad.png",
+      "flagTwo": "peshawar.png",
+      "venue": "Rawalpindi",
+      "time": ""
+    },
+    {
+      "date": "12-Mar-2023 07:00 PM",
+      "teamOne": "Lahore Qalandars",
+      "teamTwo": "Karachi Kings",
+      "flagOne": "lahore.png",
+      "flagTwo": "karachi.png",
+      "venue": "Lahore",
+      "time": ""
+    }
+  ],
+  "venues": [
+    {
+      "country": "Pakistan",
+      "city": "Karachi",
+      "stadium": "National Stadium",
+      "image": "assets/venues/karachi.png"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Lahore",
+      "stadium": "Gaddafi Stadium",
+      "image": "assets/venues/lahore.png"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Multan",
+      "stadium": "Multan Cricket Stadium",
+      "image": "assets/venues/multan.png"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Rawalpindi",
+      "stadium": "Rawalpindi Cricket Stadium",
+      "image": "assets/venues/rawalpindi.png"
+    }
+  ],
+  "teams": [
+    {
+      "fullName": "Islamabad United",
+      "shortName": "ISLU",
+      "captain": "Shadab Khan",
+      "flag": "assets/flags/islamabad.png",
+      "captainImage": "assets/captains/shadab.png"
+    },
+    {
+      "fullName": "Karachi Kings",
+      "shortName": "Kings",
+      "captain": "Imad Wasim",
+      "flag": "assets/flags/karachi.png",
+      "captainImage": "assets/captains/imadwasim.png"
+    },
+    {
+      "fullName": "Lahore Qalandars",
+      "shortName": "Qalandars",
+      "captain": "shaheen Afridi",
+      "flag": "assets/flags/lahore.png",
+      "captainImage": "assets/captains/shaheen.png"
+    },
+    {
+      "fullName": "Multan Sultans",
+      "shortName": "Janoobis",
+      "captain": "Muhammad Rizwan",
+      "flag": "assets/flags/multan.png",
+      "captainImage": "assets/captains/rizwan.png"
+    },
+    {
+      "fullName": "Peshawar Zalmi",
+      "shortName": "Khpal Team",
+      "captain": "Babar Azam",
+      "flag": "assets/flags/peshawar.png",
+      "captainImage": "assets/captains/babarazam.png"
+    },
+    {
+      "fullName": "Quetta Gladiators",
+      "shortName": "Shan-e-Pakistan",
+      "captain": "Sarfaraz Ahmed",
+      "flag": "assets/flags/quetta.png",
+      "captainImage": "assets/captains/sarfaraz.png"
+    }
+  ],
+  "history": [
+    {
+      "winner": "Islamabad United",
+      "runnerUp": "Quetta Gladiators",
+      "winnerFlag": "islamabad.png",
+      "runnerUpFlag": "quetta.png",
+      "winnerCaptain": "assets/history/misbah.png",
+      "runnerUpCaptain":  "assets/history/sarfaraz.png",
+      "winnerScore": "175/4 (18.4 overs)",
+      "runnerUpScore": "174/7 (20 overs)",
+      "year": "2016"
+    },
+    {
+      "winner": "Peshawar Zalmi",
+      "runnerUp": "Quetta Gladiators",
+      "winnerFlag": "peshawar.png",
+      "runnerUpFlag": "quetta.png",
+      "winnerCaptain": "assets/history/sammy.png",
+      "runnerUpCaptain":  "assets/history/sarfaraz.png",
+      "winnerScore": "148/6 (20 overs)",
+      "runnerUpScore": "90 (16.3 overs)",
+      "year": "2017"
+    },
+    {
+      "winner": "Islamabad United",
+      "runnerUp": "Peshawar Zalmi",
+      "winnerFlag": "islamabad.png",
+      "runnerUpFlag": "peshawar.png",
+      "winnerCaptain": "assets/history/misbah.png",
+      "runnerUpCaptain":  "assets/history/sammy.png",
+      "winnerScore": "154/7 (16.5 overs)",
+      "runnerUpScore": "148/9 (20 overs)",
+      "year": "2018"
+    },
+    {
+      "winner": "Quetta Gladiators",
+      "runnerUp": "Peshawar Zalmi",
+      "winnerFlag": "quetta.png",
+      "runnerUpFlag": "peshawar.png",
+      "winnerCaptain": "assets/history/sarfaraz.png",
+      "runnerUpCaptain":  "assets/history/sammy.png",
+      "winnerScore": "139/2 (17.5 overs)",
+      "runnerUpScore": "138/8 (20 overs)",
+      "year": "2019"
+    },
+    {
+      "winner": "Karachi Kings",
+      "runnerUp": "Lahore Qalandars",
+      "winnerFlag": "karachi.png",
+      "runnerUpFlag": "lahore.png",
+      "winnerCaptain": "assets/history/imadwasim.png",
+      "runnerUpCaptain":  "assets/history/sohail.png",
+      "winnerScore": "135/5 (18.4 overs)",
+      "runnerUpScore": "134/7 (20 overs)",
+      "year": "2020"
+    },
+    {
+      "winner": "Multan Sultans",
+      "runnerUp": "Peshawar Zalmi",
+      "winnerFlag": "multan.png",
+      "runnerUpFlag": "peshawar.png",
+      "winnerCaptain": "assets/history/rizwan.png",
+      "runnerUpCaptain":  "assets/history/wahab.png",
+      "winnerScore": "206/4 (20 overs)",
+      "runnerUpScore": "159/9 (20 overs)",
+      "year": "2021"
+    },
+    {
+      "winner": "Lahore Qalandars",
+      "runnerUp": "Multan Sultans",
+      "winnerFlag": "lahore.png",
+      "runnerUpFlag": "multan.png",
+      "winnerCaptain": "assets/history/shaheen.png",
+      "runnerUpCaptain":  "assets/history/rizwan.png",
+      "winnerScore": "180/5 (20 overs)",
+      "runnerUpScore": "138 (19.3 overs)",
+      "year": "2022"
+    }
+  ]
+}
